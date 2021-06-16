@@ -10,3 +10,5 @@
 -Slack
 
 #Palavras segredo
+1ª Data pipeline
+2ª 
